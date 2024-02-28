@@ -11,6 +11,9 @@ This repository contains the implementation of the paper:
 > Findings of the Association for Computational Linguistics: EMNLP 2023 <br>
 > Henry Peng Zou, Yue Zhou, Weizhi Zhang, Cornelia Caragea <br>
 
+## News
+
+🔥 Welcome to check out our other work on semi-supervised learning: [JointMatch](https://github.com/HenryPengZou/JointMatch)!
 
 ## Setup
 ### Install Package 
@@ -86,4 +89,4 @@ If you find this repository helpful, please consider citing our paper 💕:
 
 ## Acknowledgement
 This repo borrows some data and codes from [DebiasPL](https://github.com/frank-xwang/debiased-pseudo-labeling) and [USB](https://github.com/microsoft/Semi-supervised-learning). We appreciate their great works. <br>
-Besides, welcome to check out our other work in semi-superivsed learning: [JointMatch](https://github.com/HenryPengZou/JointMatch)!
+Besides, welcome to check out our other work in semi-supervised learning: [JointMatch](https://github.com/HenryPengZou/JointMatch)!
