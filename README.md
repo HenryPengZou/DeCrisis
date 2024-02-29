@@ -13,7 +13,7 @@ This repository contains the implementation of the paper:
 
 ## News
 
-🔥 Welcome to check out our other work on semi-supervised learning: [JointMatch](https://github.com/HenryPengZou/JointMatch)!
+🌱 Welcome to check out our other work on semi-supervised learning: [JointMatch](https://github.com/HenryPengZou/JointMatch)!
 
 ## Setup
 ### Install Package 
